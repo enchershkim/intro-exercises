@@ -1,0 +1,17 @@
+html{width:100%;font-family:Georgia;}
+
+body{width:700px;margin-left:20%;margin-top:5%;}
+
+#head{font-size:25px;color:darkgreen;text-align:center;}
+
+#director{text-align:center;}
+
+#cia{max-width:40%;float:left;margin-right:20px;}
+
+.right{width:720px;line-height: 30px;}
+
+.para{line-height:25px;}
+
+#shift {color:blue; text-decoration:}
+
+#porter{font-weight:bold;}

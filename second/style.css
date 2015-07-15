@@ -1,0 +1,11 @@
+html{width:100%;}
+
+body{text-align:center;}
+
+
+.row{padding:50px;}
+.col-sm-4{background-color:#f0ad4e;height:800px;}
+.col-sm-8{background-color:#d9534f;height:300px;}
+.col-xs-8{background-color:#3498db;height:500px;}
+
+
